@@ -21,6 +21,8 @@ If you are writing a client-side, user focused application you may be better of 
 
 In particular, libcurl does not know about the users HTTP proxy settings which makes it harder to use behind corporate and school proxies. I am not saying not to use libcurl on the client, just that you might be better off just using the local APIs.
 
+You might also be already using Qt or something similar which will include perfectly good HTTP libraries.
+
 Compiling
 =========
 
