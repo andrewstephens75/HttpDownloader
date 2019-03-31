@@ -62,7 +62,7 @@ See `main.cpp` for a more complete example.
 Rationale
 =========
 
-As written, this class is only designed to perform simple GETs in the safest way possible. Extending it would not be hard but I decided to cover the most common case comprehensively rather than provide a massive kitchen sink soltuion.
+As written, this class is only designed to perform simple GETs in the safest way possible. Extending it would not be hard but I decided to cover the most common case comprehensively rather than provide a massive kitchen sink solution.
 
 Exceptions
 ----------
